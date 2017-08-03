@@ -1,0 +1,24 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Friend finding application, or dating app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiffw/FriendFinder.git"
+  },
+  "author": "Tiff WIllson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiffw/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/tiffw/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.3"
+  }
+}
